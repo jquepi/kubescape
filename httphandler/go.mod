@@ -5,13 +5,13 @@ go 1.18
 replace github.com/kubescape/kubescape/v2 => ../
 
 require (
-	github.com/kubescape/kubescape/v2 v2.0.0-00010101000000-000000000000
 	github.com/armosec/utils-go v0.0.12
 	github.com/go-openapi/runtime v0.24.1
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/mux v1.8.0
 	github.com/gorilla/schema v1.2.0
 	github.com/kubescape/go-logger v0.0.5
+	github.com/kubescape/kubescape/v2 v2.0.0-00010101000000-000000000000
 	github.com/kubescape/opa-utils v0.0.172
 	github.com/stretchr/testify v1.8.0
 	k8s.io/utils v0.0.0-20220706174534-f6158b442e7c
@@ -149,12 +149,12 @@ require (
 	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/zap v1.22.0 // indirect
 	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e // indirect
-	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
 	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e // indirect
 	golang.org/x/oauth2 v0.0.0-20220630143837-2104d58473e0 // indirect
-	golang.org/x/sys v0.0.0-20220610221304-9f5ed59c137d // indirect
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/text v0.3.8 // indirect
 	golang.org/x/time v0.0.0-20220210224613-90d013bbcef8 // indirect
 	gonum.org/v1/gonum v0.9.1 // indirect
 	google.golang.org/api v0.84.0 // indirect
